@@ -27,7 +27,7 @@ A simple yet fun Hangman game built using Python. This version includes a graphi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hangman-gui-game.git
+   git clone https://github.com/aishu553/hangman-py-game.git
 
 2. Navigate into the project folder: 
      cd Hangman
